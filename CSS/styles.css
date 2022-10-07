@@ -22,6 +22,7 @@ h2 {
 p {
     font-family: 'Open Sans', sans-serif;
     color: rgb(12,69,67);
+    font-size: 1.1rem;
 }
 
 ul, ol {
@@ -92,9 +93,21 @@ a:hover {
     margin-right: 60px;
 }
 
+#video {
+    border-radius: 50px;
+    box-shadow: 5px 0px 30px 30px rgba(93, 200, 235, 0.383);
+    box-shadow: 5px 0px 40px 12px grey;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
 #tm {
     opacity: 0.2;
     font-size: 3rem;
+}
+
+#purchasing {
+    font-size: 2.5rem;
 }
 
 #discover {
